@@ -3,7 +3,15 @@
  
 ## Features
 
-Material Design
-JSON Server Fake API
+- Material Design
+- JSON Server Fake API
+- CRUD operations
+- In-app navigation
 
+## Dependencies
+- Angular Material
+- Angular Router 
+- JSON Server
+- HttpClient
+- Reactive Forms
 
